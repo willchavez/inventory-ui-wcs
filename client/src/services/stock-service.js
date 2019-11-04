@@ -1,3 +1,5 @@
+import superagent from 'superagent';
+
 export default class StockService {
   constructor(baseUrl) {
     this.baseUrl = baseUrl || '/api';
