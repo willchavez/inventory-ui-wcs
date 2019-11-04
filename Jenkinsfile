@@ -77,7 +77,7 @@ spec:
         - name: HOME
           value: /home/devops
         - name: ENVIRONMENT_NAME
-          value: dev
+          value: inventory-wcs
         - name: BUILD_NUMBER
           value: ${env.BUILD_NUMBER}
 """
@@ -335,4 +335,3 @@ spec:
         }
     }
 }
-
