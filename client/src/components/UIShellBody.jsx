@@ -12,6 +12,7 @@ import MasterDetail from '../pattern-components/MasterDetail';
 import CreateReadUpdateDelete from '../pattern-components/CreateReadUpdateDelete';
 import SearchList from '../pattern-components/SearchList';
 import SearchForm from '../pattern-components/SearchForm';
+import StockItemList from '../pattern-components/StockItemList';
 import '../pattern-components/patterns.scss';
 
 class UIShellBody extends Component {
