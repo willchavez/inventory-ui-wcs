@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import StockServiceMock from './services/stock-service';
 
 describe('App', () => {
   test('canary verifies test infrastructure', () => {
