@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import UIShell from './components/UIShell';
+import StockService from './services/StockService';
 import './App.scss';
 
 class App extends Component {

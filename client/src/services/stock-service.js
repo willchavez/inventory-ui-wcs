@@ -1,4 +1,4 @@
-export class StockService {
+export default class StockService {
   constructor(baseUrl) {
     this.baseUrl = baseUrl || '/api';
   }
